@@ -1,3 +1,9 @@
+[![中文](https://img.shields.io/badge/中文-red)](README.md)
+[![English](https://img.shields.io/badge/English-blue)](README.en.md)
+[![Русский](https://img.shields.io/badge/Русский-green)](README.ru.md)
+[![日本語](https://img.shields.io/badge/日本語-当前-brightgreen)](README.ja.md)
+[![한국어](https://img.shields.io/badge/한국어-purple)](README.ko.md)
+
 # RJDC-Poker — マジックポーカー
 
 > [!WARNING]
