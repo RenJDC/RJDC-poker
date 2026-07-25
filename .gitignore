@@ -33,6 +33,16 @@ migrate_working_dir/
 /build/
 /coverage/
 
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/ephemeral/
+ios/Runner.xcworkspace/xcshareddata/
+ios/Runner.xcworkspace/xcuserdata/
+ios/DerivedData/
+
 # Symbolication related
 app.*.symbols
 
